@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me ARTHER BHION C
 STUDENT @ St.Joseph's College Of Engineering
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://media1.tenor.com/m/AMrMb1Ww1sEAAAAC/disney-mickey-mouse.gif">
 - 🔭 Here's my [LINKEDIN](https://www.linkedin.com/in/arther-bhion-c-78339025a/)                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking for internships

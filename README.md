@@ -1,13 +1,13 @@
 ## Hi there 👋 It's me ARTHER BHION C
 STUDENT @ St.Joseph's College Of Engineering
-<img align="right" width="370" height="290" src="https://media1.tenor.com/m/AMrMb1Ww1sEAAAAC/disney-mickey-mouse.gif">
+<img align="right" width="370"  src="https://th.bing.com/th/id/OIP.OpHgQSxdgbhsi7G9wOYExAHaHI?pid=ImgDet&w=184&h=176&c=7&dpr=1.3">
 - 🔭 Here's my [LINKEDIN](https://www.linkedin.com/in/arther-bhion-c-78339025a/)                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking for internships
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](inkedin.com/in/arther-bhion-c-78339025a/) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/fortis_intrepidus/)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arther-bhion-c-78339025a/) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/fortis_intrepidus/)
 
 ### I code in
 <img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>

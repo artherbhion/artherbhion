@@ -17,5 +17,5 @@ STUDENT @ St.Joseph's College Of Engineering
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/artherbhion2004?theme=dark&font=Marcellus&ext=heatmap)
 ![artherbhion's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artherbhion&layout=compact&theme=dark)
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=artherbhion&theme=dark&show_icons=true&&hide=issues,contribs)
+![arther's's GitHub stats](https://github-readme-stats.vercel.app/api?username=artherbhion&theme=dark&show_icons=true&&hide=issues,contribs)
 [![ARTHERBHION'S github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=artherbhion&bg_color=000000&color=0d9189&line=0d9189&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
